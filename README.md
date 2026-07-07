@@ -1,7 +1,7 @@
 # 🚀 LeetCode Hub
 ---
   
-### A curated collection of my LeetCode solutions, helping students master Data Structures & Algorithms, improving problem-solving skills, and preparing for software engineering interviews.
+### A curated collection of my LeetCode solutions, helping students master Data Structures & Algorithms, improve problem-solving skills, and prepare efficiently for software engineering interviews.
 
 ---
 
