@@ -45,7 +45,8 @@ Prepare for technical interviews with curated problem sets from top tech compani
 
 - 💻 C++
 - 🐍 Python 
-- ☕ JavaScript 
+- ☕ JavaScript
+- 🐬 MySQL 
 
 ---
 
