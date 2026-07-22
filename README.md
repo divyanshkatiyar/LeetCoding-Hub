@@ -44,8 +44,8 @@ Prepare for technical interviews with curated problem sets from top tech compani
 ## 🛠️ Tech Stack
 
 - 💻 C++
-- 🐍 Python (coming soon)
-- ☕ Java (coming later)
+- 🐍 Python 
+- ☕ JavaScript 
 
 ---
 
@@ -67,7 +67,6 @@ LeetCode-Hub/
 - ✅ Time Complexity
 - ✅ Space Complexity
 - ✅ Clean implementation
-- ✅ Helpful comments (when needed)
 
 ---
 
